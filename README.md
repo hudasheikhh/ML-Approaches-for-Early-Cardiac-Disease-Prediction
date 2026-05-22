@@ -1,4 +1,4 @@
-# ML-Approaches-for-Early-Cardiac-Disease-Prediction 
+# 📊 ML-Approaches-for-Early-Cardiac-Disease-Prediction 
 
 
 This project explores early cardiovascular disease (CVD) prediction using two complementary data sources:
